@@ -4,7 +4,8 @@ Points clés
 
 1. Le rôle du Flexbox et Grid
 
-[Explication en 1-2 phrases avec vos mots.]
+Flexbox et Grid permettent d’organiser les éléments sur une page web. On utilise Flexbox pour aligner des éléments sur une
+ligne ou une colonne, alors le Grid permet de créer des mises en page plus complexes en lignes et colonnes.
 
 2. [Titre du deuxième point]
 
