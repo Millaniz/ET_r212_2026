@@ -8,20 +8,23 @@ Flexbox et Grid permettent d’organiser les éléments sur une page web. On uti
 ligne ou une colonne, alors le Grid permet de créer des mises en page en lignes et colonnes.
 
 2. Responsive
+
 Pour rendre le site reponsive donc adaptable sur téléphone ou tablette, il faut utiliser les media queries.
 
  Utilisation de l'IA
 
 Démarche
 
-[Quel outil avez-vous utilisé ? (modèle, version, interface) Dans quel but : comprendre un concept,
-déboguer, générer du code, reformuler, autre ?]
+J’ai utilisé ChatGPT pour m’aider à comprendre le fonctionnement de Flexbox, car j’avais du mal à l’utiliser dans mon CSS.
+Je m’en suis aussi servi pour réaliser le responsive de mon site avec les media queries.
 
 Apports et limites
 
-[Ce que l'IA vous a aidé à faire. Ce qui n'a pas fonctionné ou
-que vous avez dû corriger vous-même.]
+L’IA m’a aidé à mieux comprendre comment fonctionne Flexbox et à débloquer certaines parties de mon code. Elle m’a aussi 
+aidé pour réaliser le reponsive. Cependant, j’ai parfois dû modifier les codes proposées pour qu’elles correspondent à mes
+choix.
 
 Prompts significatifs
 
-1. "[Prompt]" → [Ce que ça a donné / pourquoi ce prompt était utile]
+1. "Comment utiliser Flexbox en CSS ?" → Ça m’a aidé à comprendre comment aligner les éléments correctement sur mon site.
+2. "Comment faire un site responsive en CSS ?" → Ça m’a donné des exemples de code reponsive pour adapter mon site aux téléphones et les erreurs à éviter.
