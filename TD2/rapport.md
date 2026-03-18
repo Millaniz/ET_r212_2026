@@ -16,7 +16,7 @@ Pour rendre le site reponsive donc adaptable sur téléphone ou tablette, il fau
 Démarche
 
 J’ai utilisé ChatGPT pour m’aider à comprendre le fonctionnement de Flexbox, car j’avais du mal à l’utiliser dans mon CSS.
-Je m’en suis aussi servi pour réaliser le responsive de mon site avec les media queries.
+Je m’en suis également aussi servi pour réaliser le responsive de mon site avec les media queries.
 
 Apports et limites
 
