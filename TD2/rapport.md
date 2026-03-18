@@ -1,6 +1,6 @@
 Rapport — TD2
 
-Points clés
+- Points clés
 
 1. Le rôle du Flexbox et Grid
 
