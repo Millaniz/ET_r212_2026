@@ -1,3 +1,8 @@
 Explication Choix CSS :  
 
-J'ai choisi d'utiliser les balises <article> pour isoler chaque argument et témoignage, car cela permet de créer des "blocs" de contenu indépendants et faciles à styliser avec une bordure. Le choix de la balise <blockquote> pour les avis est au centre car cela permet d’avoir une structure sémantique pour la citation, ce qui permet de les distinguer visuellement du reste du texte avec seulement une bordure latérale et de l'italique. Pour la mise en page, j'ai privilégié Flexbox dans la navigation pour aligner les liens horizontalement de manière fluide et j'ai inclus une règle media query pour que le menu de navigation passe en colonne sur les téléphones ce qui rend le site accessible partout. 
+J'ai choisi d'utiliser les balises <article> pour isoler chaque argument et témoignage, car cela permet de créer des blocs
+de contenu indépendants et faciles à modifier avec le css. Le choix de la balise <blockquote> pour les avis est au 
+centre car cela permet d’avoir une structure sémantique pour la citation. Cela permet de les distinguer visuellement du 
+reste du texte avec seulement une bordure latérale et en italique. Pour la mise en page, j'ai privilégié Flexbox dans la 
+navigation pour aligner les liens horizontalement et j'ai inclus une règle media query pour que le menu de 
+navigation passe en colonne sur téléphone ce qui rend le site accessible partout. 
