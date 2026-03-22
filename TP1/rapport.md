@@ -2,14 +2,13 @@
 
 ## Points clés
 
-### 1. [Titre du premier point]
+### 1. Variable CSS
 
-[Explication en 1-2 phrases avec vos mots.]
+J’ai compris comment créer et utiliser des variables CSS pour gérer les couleurs, les espacements et la typographie et 
+également appris le rôle des variables qui permet de modifier plus facilement l'apparence du site en changeant juste une 
+valeur.
 
-### 2. [Titre du deuxième point]
-
-[Explication en 1-2 phrases avec vos mots.]
-### 3. [Titre du troisième point]
+### 2. 
 
 [Explication en 1-2 phrases avec vos mots.]
  
