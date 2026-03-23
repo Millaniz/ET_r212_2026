@@ -29,7 +29,7 @@ btnClose.addEventListener('click', () => {
   modal.classList.remove('is-visible');
 });
 
-// Fermer avec espace
+// Fermer avec escape
 document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape' && modal.classList.contains('is-visible')) {
     modal.classList.remove('is-visible');
