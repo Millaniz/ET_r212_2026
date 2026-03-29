@@ -11,7 +11,7 @@ valeur.
 ### 2. Flexbox et grid
 
 Pour créer le css du site, on a du utiliser flexbox ainsi que grid. Flexbox a été utilisé pour permettre d'organiser les 
-éléments du header comme le logo ou les liens. Le grid a été utilisé pour afficher les cartes projets c
+éléments du header comme le logo ou les liens. Le grid a été utilisé pour afficher les cartes projets en plusieurs colonnes.
  
 ## Utilisation de l'IA
 
