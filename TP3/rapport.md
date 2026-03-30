@@ -2,11 +2,11 @@
 
 ## Points clés
 
-### 1. [Titre du premier point]
+### 1. Filtrage interactif
 
 [Explication en 1-2 phrases avec vos mots.]
 
-### 2. [Titre du deuxième point]
+### 2. Sauvegarde des données
 
 [Explication en 1-2 phrases avec vos mots.]
 
