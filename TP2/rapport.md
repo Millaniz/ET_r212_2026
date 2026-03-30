@@ -2,9 +2,9 @@
 
 ## Points clés
 
-### 1. 
+### 1. querySelector / querySelectorAll
 
-### 2. 
+### 2. classList
 
 [Explication en 1-2 phrases avec vos mots.]
 
