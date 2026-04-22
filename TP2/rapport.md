@@ -2,7 +2,7 @@
 
 ## Points clés
 
-### 1. Accordéon
+### 1. Menu burger
 
 Durant la séance on a apprit comment mettre un menu burger sur un site web en le codant en javascript. Le menu burger est un menu qui peut s'ouvrir et se refermer, ce qui 
 permet de rentre l'interaction du site plus fluide pour les utilisateurs. 
