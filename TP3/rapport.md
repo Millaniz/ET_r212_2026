@@ -4,11 +4,11 @@
 
 ### 1. Filtrage interactif
 
-[Explication en 1-2 phrases avec vos mots.]
+Pendant la séance du tp3, on a apprit à faire un filtrage de données grâce à du code javascript. Le filtrage va permettre d'affichier des données en fonction de ce que choisit l'utilisateur.
 
 ### 2. Sauvegarde des données
 
-[Explication en 1-2 phrases avec vos mots.]
+On a également apprit à sauvegarder des données toujours en utilisant du javascript, la sauvegarde de donnée est importante car elle va stocker des informations saisies ou modifiées par l'utilisateur, ce qui va permettre une utlisation plus agréable pour l'utilisateur.
 
 ## Utilisation de l'IA
 
